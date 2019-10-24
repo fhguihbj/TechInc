@@ -5,9 +5,14 @@ V.E.N.U.S. Bot
     
 html,jsp,css,javascript,json;
 
-Eric Zezza Rm
+Eric Zezza Rm82849
+
 Guilherme Henri Rm82123
+
 Lucas Tinoco Rm83400
-Pedro Rm
-Thandy Rm
+
+Pedro Rm83233
+
+Thandy Rm83944
+
 Vinicius Rm
