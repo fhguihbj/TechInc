@@ -11,8 +11,8 @@ Guilherme Henri Rm82123
 
 Lucas Tinoco Rm83400
 
-Pedro Rm83233
+Pedro Henrique Rm83233
 
-Thandy Rm83944
+Thandy Noberto Rm83944
 
-Vinicius Rm
+Vinicius Martinez Rm
